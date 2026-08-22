@@ -21,9 +21,9 @@ TAVILY_API_KEY = "*****************"
 
 WEATHERSTACK_API_KEY = "*****************" 
 
-OPENAI_API_KEY = "*****************"
+MESH_API_KEY = "*****************"
 
-OPENAI_BASE_URL = "*****************"
+MESH_API_BASE_URL = "https://api.meshapi.ai/v1"
 ``` 
 
 #### Run the app.py file 
